@@ -1,3 +1,7 @@
+# Primeiro Projeto Ignite - NodeJS
+
+Projeto desenvolvido durante o Ignite da Rocketseat, a ideia é simular uma API de um banco, abaixo os ítems desenvolvidos.
+
 ## FinAPI - Financeira
 
 ---
